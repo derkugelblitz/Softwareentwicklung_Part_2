@@ -4,7 +4,7 @@
 
 using MyCppStruct = struct
 {
-    int8_t a = 4;
+    int8_t a = 66;
     float b = 0.0;
 
     void print() const

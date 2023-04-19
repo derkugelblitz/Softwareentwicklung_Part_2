@@ -1,0 +1,3 @@
+/workspaces/Softwareentwicklung_Part_2/Vorlesung/ErstesProgramm/build/CMakeFiles/HelloWorld.dir
+/workspaces/Softwareentwicklung_Part_2/Vorlesung/ErstesProgramm/build/CMakeFiles/edit_cache.dir
+/workspaces/Softwareentwicklung_Part_2/Vorlesung/ErstesProgramm/build/CMakeFiles/rebuild_cache.dir

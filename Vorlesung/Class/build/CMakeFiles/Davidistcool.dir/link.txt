@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Davidistcool.dir/struct_to_class.cpp.o -o Davidistcool 

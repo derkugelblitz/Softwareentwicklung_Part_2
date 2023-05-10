@@ -1,0 +1,3 @@
+/workspaces/Softwareentwicklung_Part_2/Vorlesung/Inheritance/build/CMakeFiles/child.dir
+/workspaces/Softwareentwicklung_Part_2/Vorlesung/Inheritance/build/CMakeFiles/edit_cache.dir
+/workspaces/Softwareentwicklung_Part_2/Vorlesung/Inheritance/build/CMakeFiles/rebuild_cache.dir

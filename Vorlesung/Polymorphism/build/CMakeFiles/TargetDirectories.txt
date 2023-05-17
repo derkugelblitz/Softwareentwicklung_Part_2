@@ -1,0 +1,3 @@
+/workspaces/Softwareentwicklung_Part_2/Vorlesung/Polymorphism/build/CMakeFiles/poly.dir
+/workspaces/Softwareentwicklung_Part_2/Vorlesung/Polymorphism/build/CMakeFiles/edit_cache.dir
+/workspaces/Softwareentwicklung_Part_2/Vorlesung/Polymorphism/build/CMakeFiles/rebuild_cache.dir

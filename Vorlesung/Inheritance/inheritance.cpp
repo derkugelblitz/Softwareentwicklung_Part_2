@@ -19,6 +19,15 @@ class Shape
     int8_t height_;
 };
 
+class PaintCost
+{
+    public: 
+    auto get_cost(double area) -> double
+    {
+        return (area * 70);
+    }
+};
+
 // Derived class
 class Rectangle : public Shape
 {
@@ -30,13 +39,14 @@ class Rectangle : public Shape
 };
 
 // Derived class
-class Triangle : public Shape
+class Triangle : public Shape, public PaintCost
 {
    public:
     auto get_area() -> double
     {
         return (0.5 * width_ * height_);
     }
+
 };
 
 auto main() -> int
@@ -59,6 +69,7 @@ auto main() -> int
 
         // Print the area of the object.
         std::cout << "Total area: " << tri.get_area() << std::endl;
+        std::cout << "Total cost: " << tri.get_cost(tri.get_area()) << std::endl;
     }
 
     return 0;

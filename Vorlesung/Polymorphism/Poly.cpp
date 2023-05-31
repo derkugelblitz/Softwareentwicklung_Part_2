@@ -1,6 +1,10 @@
 #include <iostream>
 #include <stdint.h>
 #include <string>
+#include <memory>
+#include <vector>
+#include <cstdlib>
+#include <ctime>
 
 class Animal
 {
@@ -45,9 +49,11 @@ class Bird : public Animal
         }
 };
 
+
+
 auto main() -> int
 {
-    Cat Amira;
+   /* Cat Amira;
     Amira.make_noise();
     Cat Tom;
     Bird Max;
@@ -60,5 +66,23 @@ auto main() -> int
     std::cout<<"Vogel + Vogel: "<<std::endl;
     Max + Lars;
     std::cout<<"Vogel + Katze: "<<std::endl;
-    Lars + Tom;
+    Lars + Tom;*/
+
+    std::vector<std::shared_ptr<Animal>> vec;
+
+    std::srand(std::time(nullptr));
+
+    for (int i = 0; i < 10; ++i) {
+        if (std::rand() % 2 == 0) {
+            vec.push_back(std::make_shared<Bird>());
+        } else {
+            vec.push_back(std::make_shared<Cat>());
+        }
+    }
+
+    for (auto &ptr : vec) {
+        ptr->make_noise();
+    }
+
+return 0;
 }

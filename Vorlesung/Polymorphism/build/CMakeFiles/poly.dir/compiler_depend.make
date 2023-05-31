@@ -171,8 +171,65 @@ CMakeFiles/poly.dir/Poly.cpp.o: /workspaces/Softwareentwicklung_Part_2/Vorlesung
   /usr/include/c++/9/bits/basic_ios.tcc \
   /usr/include/c++/9/bits/ostream.tcc \
   /usr/include/c++/9/istream \
-  /usr/include/c++/9/bits/istream.tcc
+  /usr/include/c++/9/bits/istream.tcc \
+  /usr/include/c++/9/memory \
+  /usr/include/c++/9/bits/stl_construct.h \
+  /usr/include/c++/9/bits/stl_uninitialized.h \
+  /usr/include/c++/9/bits/stl_tempbuf.h \
+  /usr/include/c++/9/bits/stl_raw_storage_iter.h \
+  /usr/include/c++/9/ext/concurrence.h \
+  /usr/include/c++/9/bits/uses_allocator.h \
+  /usr/include/c++/9/bits/unique_ptr.h \
+  /usr/include/c++/9/utility \
+  /usr/include/c++/9/bits/stl_relops.h \
+  /usr/include/c++/9/tuple \
+  /usr/include/c++/9/array \
+  /usr/include/c++/9/bits/invoke.h \
+  /usr/include/c++/9/bits/shared_ptr.h \
+  /usr/include/c++/9/bits/shared_ptr_base.h \
+  /usr/include/c++/9/bits/allocated_ptr.h \
+  /usr/include/c++/9/bits/refwrap.h \
+  /usr/include/c++/9/ext/aligned_buffer.h \
+  /usr/include/c++/9/bits/shared_ptr_atomic.h \
+  /usr/include/c++/9/bits/atomic_base.h \
+  /usr/include/c++/9/bits/atomic_lockfree_defines.h \
+  /usr/include/c++/9/backward/auto_ptr.h \
+  /usr/include/c++/9/vector \
+  /usr/include/c++/9/bits/stl_vector.h \
+  /usr/include/c++/9/bits/stl_bvector.h \
+  /usr/include/c++/9/bits/vector.tcc \
+  /usr/include/c++/9/ctime
 
+
+/usr/include/c++/9/ctime:
+
+/usr/include/c++/9/bits/stl_vector.h:
+
+/usr/include/c++/9/vector:
+
+/usr/include/c++/9/backward/auto_ptr.h:
+
+/usr/include/c++/9/bits/invoke.h:
+
+/usr/include/c++/9/bits/atomic_base.h:
+
+/usr/include/c++/9/bits/shared_ptr_base.h:
+
+/usr/include/c++/9/array:
+
+/usr/include/c++/9/bits/shared_ptr.h:
+
+/usr/include/c++/9/bits/stl_relops.h:
+
+/usr/include/c++/9/bits/unique_ptr.h:
+
+/usr/include/c++/9/bits/uses_allocator.h:
+
+/usr/include/c++/9/utility:
+
+/usr/include/c++/9/bits/stl_raw_storage_iter.h:
+
+/usr/include/c++/9/memory:
 
 /usr/include/c++/9/bits/istream.tcc:
 
@@ -183,6 +240,8 @@ CMakeFiles/poly.dir/Poly.cpp.o: /workspaces/Softwareentwicklung_Part_2/Vorlesung
 /usr/include/c++/9/bits/basic_ios.tcc:
 
 /usr/include/x86_64-linux-gnu/c++/9/bits/ctype_inline.h:
+
+/usr/include/c++/9/ext/aligned_buffer.h:
 
 /usr/include/c++/9/bits/streambuf_iterator.h:
 
@@ -242,6 +301,8 @@ CMakeFiles/poly.dir/Poly.cpp.o: /workspaces/Softwareentwicklung_Part_2/Vorlesung
 
 /usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
 
+/usr/include/c++/9/bits/stl_construct.h:
+
 /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h:
 
 /usr/include/c++/9/bits/basic_string.h:
@@ -280,6 +341,8 @@ CMakeFiles/poly.dir/Poly.cpp.o: /workspaces/Softwareentwicklung_Part_2/Vorlesung
 
 /usr/include/stdint.h:
 
+/usr/include/c++/9/bits/stl_bvector.h:
+
 /usr/include/c++/9/bits/cxxabi_init_exception.h:
 
 /usr/include/x86_64-linux-gnu/bits/floatn.h:
@@ -306,6 +369,8 @@ CMakeFiles/poly.dir/Poly.cpp.o: /workspaces/Softwareentwicklung_Part_2/Vorlesung
 
 /usr/include/c++/9/bits/stringfwd.h:
 
+/usr/include/c++/9/bits/atomic_lockfree_defines.h:
+
 /usr/include/c++/9/exception:
 
 /usr/include/c++/9/type_traits:
@@ -316,7 +381,11 @@ CMakeFiles/poly.dir/Poly.cpp.o: /workspaces/Softwareentwicklung_Part_2/Vorlesung
 
 /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
 
+/usr/include/c++/9/bits/refwrap.h:
+
 /usr/include/c++/9/bits/ostream_insert.h:
+
+/usr/include/c++/9/bits/vector.tcc:
 
 /usr/include/x86_64-linux-gnu/bits/floatn-common.h:
 
@@ -349,6 +418,10 @@ CMakeFiles/poly.dir/Poly.cpp.o: /workspaces/Softwareentwicklung_Part_2/Vorlesung
 /usr/include/c++/9/debug/assertions.h:
 
 /usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/c++/9/bits/allocated_ptr.h:
+
+/usr/include/c++/9/bits/stl_uninitialized.h:
 
 /usr/include/x86_64-linux-gnu/c++/9/bits/error_constants.h:
 
@@ -434,6 +507,8 @@ CMakeFiles/poly.dir/Poly.cpp.o: /workspaces/Softwareentwicklung_Part_2/Vorlesung
 
 /usr/include/x86_64-linux-gnu/bits/cpu-set.h:
 
+/usr/include/c++/9/ext/concurrence.h:
+
 /usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
 
 /usr/include/x86_64-linux-gnu/bits/errno.h:
@@ -457,6 +532,8 @@ CMakeFiles/poly.dir/Poly.cpp.o: /workspaces/Softwareentwicklung_Part_2/Vorlesung
 /usr/include/c++/9/cstdint:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
+
+/usr/include/c++/9/bits/shared_ptr_atomic.h:
 
 /usr/include/ctype.h:
 
@@ -494,6 +571,8 @@ CMakeFiles/poly.dir/Poly.cpp.o: /workspaces/Softwareentwicklung_Part_2/Vorlesung
 
 /usr/include/c++/9/bits/cxxabi_forced.h:
 
+/usr/include/c++/9/bits/stl_tempbuf.h:
+
 /usr/include/c++/9/ext/alloc_traits.h:
 
 /usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
@@ -507,6 +586,8 @@ CMakeFiles/poly.dir/Poly.cpp.o: /workspaces/Softwareentwicklung_Part_2/Vorlesung
 /usr/include/stdlib.h:
 
 /usr/include/x86_64-linux-gnu/sys/types.h:
+
+/usr/include/c++/9/tuple:
 
 /usr/include/c++/9/ios:
 
